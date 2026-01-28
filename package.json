@@ -1,7 +1,7 @@
 {
   "name": "useful-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
-    "install": "node tools/post-data.js" 
+    "install": "node tools/rev.js" 
   }
 }
